@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aYBMNHx/1eCj62ShXeufCqBjT/YpQZ86qv7eB/OVdBmralDKA62acuEofkN+p3x3UmbU96hapVTK8JueZlhNbA==",
+  "dgSpecHash": "BucFvhgaweLcrwK0NkgzEF0oaP3Aw8zXas4PU6KfTgmfCWJoPaaD5i1hYohdXi47QCh+ycmkfbemr3fjgVt1mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Usuario\\Usuario.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

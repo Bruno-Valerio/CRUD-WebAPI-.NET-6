@@ -213,21 +213,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Usuario\\Usuario.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj",
       "projectName": "Usuario",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Usuario\\Usuario.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Usuario\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
