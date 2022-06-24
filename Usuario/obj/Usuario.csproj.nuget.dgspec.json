@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj": {}
+    "c:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj": {
+    "c:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj",
+        "projectUniqueName": "c:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj",
         "projectName": "Usuario",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj",
+        "projectPath": "c:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\Usuario.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\obj\\",
+        "outputPath": "c:\\Users\\andre\\OneDrive\\Área de Trabalho\\Bruno\\CRUD-WebAPI-.NET-6\\Usuario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
